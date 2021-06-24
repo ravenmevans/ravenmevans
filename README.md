@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ravenmevans
-- 👀 I’m interested in software engineering and ull stack development
+- 👀 I’m interested in software engineering and full stack development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Codecademy Projects
+- 💞️ I’m looking to learn more about what being a software engineer entales
 - 📫 How to reach me ravenmevans@gmail.com
 
 <!---
